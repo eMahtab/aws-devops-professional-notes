@@ -9,6 +9,8 @@ https://docs.google.com/document/d/1RBlZtY3DbYLYhYGdAgA6lperWTjjZhz2s-idNQeUZB0/
 # CodePipeline with Jenkins Build & Test Stage
 https://docs.google.com/document/d/1lbyZIHmwo79zS8V4dxJHEpr2WdliVNgXvEa6qQpRTBs/edit?usp=sharing
 
+# BootStrapping EC2 using UserData
+https://docs.google.com/document/d/13xM2763hUCPdHPKI70rfQa_IHNlZ31hrOW9AHgJ6uag/edit?usp=sharing
 
 # BootStrapping using CloudFormation::Init
 https://docs.google.com/document/d/1eA6eCMfgulCKVsJEoy7A8AXlsRFE2HvYcp95PuT6TkE/edit?usp=sharing
