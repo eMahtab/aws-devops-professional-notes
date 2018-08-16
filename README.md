@@ -10,5 +10,9 @@ https://docs.google.com/document/d/1RBlZtY3DbYLYhYGdAgA6lperWTjjZhz2s-idNQeUZB0/
 https://docs.google.com/document/d/1lbyZIHmwo79zS8V4dxJHEpr2WdliVNgXvEa6qQpRTBs/edit?usp=sharing
 
 
+# BootStrapping using CloudFormation::Init
+https://docs.google.com/document/d/1eA6eCMfgulCKVsJEoy7A8AXlsRFE2HvYcp95PuT6TkE/edit?usp=sharing
+
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
