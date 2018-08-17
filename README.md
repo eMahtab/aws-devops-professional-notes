@@ -18,6 +18,9 @@ https://docs.google.com/document/d/13xM2763hUCPdHPKI70rfQa_IHNlZ31hrOW9AHgJ6uag/
 # BootStrapping EC2 using CloudFormation::Init
 https://docs.google.com/document/d/1eA6eCMfgulCKVsJEoy7A8AXlsRFE2HvYcp95PuT6TkE/edit?usp=sharing
 
+# Using WaitCondition and WaitHandle
+https://docs.google.com/document/d/1Tb3t0cCxQxlza4C_rAdmWNRbIfNhpNPfC-wn6JTrQ0E/edit?usp=sharing
+
 
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
