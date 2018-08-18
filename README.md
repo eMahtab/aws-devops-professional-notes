@@ -24,5 +24,8 @@ https://docs.google.com/document/d/1Tb3t0cCxQxlza4C_rAdmWNRbIfNhpNPfC-wn6JTrQ0E/
 # CloudFormation creating resources conditionally
 https://docs.google.com/document/d/1wwTtY1c82PW2nygjzReEUnffZUOZHyJRuUpb7TmR8p4/edit?usp=sharing
 
+# CloudFormation Nested Stacks Example
+https://docs.google.com/document/d/1B7ujbaIwdI54KN1fPnEeeVtq02dARiQTuq9zrUCMS-I/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
