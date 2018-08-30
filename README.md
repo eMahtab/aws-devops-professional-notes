@@ -30,5 +30,8 @@ https://docs.google.com/document/d/1B7ujbaIwdI54KN1fPnEeeVtq02dARiQTuq9zrUCMS-I/
 # Cross Stack Resource Reference - Export/Import
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
+# Amazon RDS Resources and Operations
+https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
