@@ -15,6 +15,9 @@ https://docs.google.com/document/d/1puY3QxBxUBcdlNZembFleT3FG4IISbN02IkkG5iS8Gk/
 # BootStrapping EC2 using UserData
 https://docs.google.com/document/d/13xM2763hUCPdHPKI70rfQa_IHNlZ31hrOW9AHgJ6uag/edit?usp=sharing
 
+# CloudFormation Helper Scripts
+https://docs.google.com/document/d/1r25pbh2Ok61Fx57BldIsEauI1ywYv18foJWzsY8vdO0/edit?usp=sharing
+
 # BootStrapping EC2 using CloudFormation::Init
 https://docs.google.com/document/d/1eA6eCMfgulCKVsJEoy7A8AXlsRFE2HvYcp95PuT6TkE/edit?usp=sharing
 
