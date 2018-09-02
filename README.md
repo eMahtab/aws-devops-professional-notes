@@ -33,6 +33,9 @@ https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/
 # Using cfn-hup helper script
 https://docs.google.com/document/d/1ym5g0JBYkdr_RTid8nkXaZgO5YYCZbFoLlgbf2c4uxA/edit?usp=sharing
 
+# CloudFormation Pseudo Parameters
+https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/edit?usp=sharing
+
 # Amazon RDS Resources and Operations
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
