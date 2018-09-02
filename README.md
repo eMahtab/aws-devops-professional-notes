@@ -36,6 +36,9 @@ https://docs.google.com/document/d/1ym5g0JBYkdr_RTid8nkXaZgO5YYCZbFoLlgbf2c4uxA/
 # CloudFormation Pseudo Parameters
 https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/edit?usp=sharing
 
+# CloudFormation Resource Attributes
+https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/edit?usp=sharing
+
 # Amazon RDS Resources and Operations
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
