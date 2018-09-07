@@ -39,6 +39,9 @@ https://docs.google.com/document/d/1ym5g0JBYkdr_RTid8nkXaZgO5YYCZbFoLlgbf2c4uxA/
 # CloudFormation - AutoScaling Group without update policy
 https://docs.google.com/document/d/1-BZMhN7K0mFNvMSyOfNS32zaCVm0f3nAUosMZvfu5qI/edit?usp=sharing
 
+# CloudFormation - AutoScaling Group with AutoScalingRollingUpdate policy
+https://docs.google.com/document/d/1SXLM_ROQL3qwjR-b50MKaKlzymmw2WXJUn481zc19ww/edit?usp=sharing
+
 # CloudFormation Pseudo Parameters
 https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/edit?usp=sharing
 
