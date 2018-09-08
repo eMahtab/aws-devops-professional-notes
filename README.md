@@ -36,6 +36,9 @@ https://docs.google.com/document/d/1FpbuOPgQ8letFG-W_AXkTZ6v8IHqHFz8_ywfRegYzNY/
 # CloudFormation - Stack Termination Protection
 https://docs.google.com/document/d/1vmQvf-m4b73JmBERpb2eaoLnnSrG1OSqZWozAk9-zzA/edit?usp=sharing
 
+# CloudFormation - Stack Policies
+https://docs.google.com/document/d/1F4SWoanWtnFSxc9vBmIuXJRzGm3jR2MRBLZOpxqNYOY/edit?usp=sharing
+
 # Cross Stack Resource Reference - Export/Import
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
