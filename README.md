@@ -30,6 +30,9 @@ https://docs.google.com/document/d/1wwTtY1c82PW2nygjzReEUnffZUOZHyJRuUpb7TmR8p4/
 # CloudFormation Nested Stacks Example
 https://docs.google.com/document/d/1B7ujbaIwdI54KN1fPnEeeVtq02dARiQTuq9zrUCMS-I/edit?usp=sharing
 
+# CloudFormation - Stack Termination Protection
+https://docs.google.com/document/d/1vmQvf-m4b73JmBERpb2eaoLnnSrG1OSqZWozAk9-zzA/edit?usp=sharing
+
 # Cross Stack Resource Reference - Export/Import
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
