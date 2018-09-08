@@ -39,6 +39,9 @@ https://docs.google.com/document/d/1vmQvf-m4b73JmBERpb2eaoLnnSrG1OSqZWozAk9-zzA/
 # Cross Stack Resource Reference - Export/Import
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
+# CloudFormation - Updating Stacks using Change Sets
+https://docs.google.com/document/d/1qFYPTAl-hNUZZcpMly0Z0N8SumcvpC-wW2btyVqUa-0/edit?usp=sharing
+
 # Using cfn-hup helper script
 https://docs.google.com/document/d/1ym5g0JBYkdr_RTid8nkXaZgO5YYCZbFoLlgbf2c4uxA/edit?usp=sharing
 
