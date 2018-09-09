@@ -39,6 +39,9 @@ https://docs.google.com/document/d/1vmQvf-m4b73JmBERpb2eaoLnnSrG1OSqZWozAk9-zzA/
 # CloudFormation - Stack Policies
 https://docs.google.com/document/d/1F4SWoanWtnFSxc9vBmIuXJRzGm3jR2MRBLZOpxqNYOY/edit?usp=sharing
 
+# CloudFormation - Custom Resources
+https://docs.google.com/document/d/1U-Rqr3pOi05O6xeX_IPys1VASVTozs463gDbK983Ka4/edit?usp=sharing
+
 # Cross Stack Resource Reference - Export/Import
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
