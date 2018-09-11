@@ -63,6 +63,9 @@ https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/
 # CloudFormation Resource Attributes
 https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/edit?usp=sharing
 
+# Scaling based on Amazon SQS
+https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/edit?usp=sharing
+
 # Amazon RDS Resources and Operations
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
