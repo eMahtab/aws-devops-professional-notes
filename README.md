@@ -69,5 +69,8 @@ https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/
 # Amazon RDS Resources and Operations
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
+# AWS CLI - Environment Variables
+https://docs.google.com/document/d/1GLJ2P8mC9jn-gdP5s6BQrKZSSmbje_hbNEw4wnQD81Y/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
