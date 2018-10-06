@@ -66,6 +66,9 @@ https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/
 # Scaling based on Amazon SQS
 https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/edit?usp=sharing
 
+# DynamoDB Streams and Lambda
+https://docs.google.com/document/d/1yo8kt5U3LUp8GVQRVhze-rTTp8Wa9-NzaOXhUjkfzBI/edit?usp=sharing
+
 # Amazon RDS Resources and Operations
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
