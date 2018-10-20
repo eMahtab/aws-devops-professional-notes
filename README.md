@@ -78,5 +78,8 @@ https://docs.google.com/document/d/1GLJ2P8mC9jn-gdP5s6BQrKZSSmbje_hbNEw4wnQD81Y/
 # Amazon Data Lifecycle Manager (DLM)
 https://docs.google.com/document/d/1wW3yljKtP49zvx3okt2WP77VUHgHov0bY58eoFiptXQ/edit?usp=sharing
 
+# AutoScaling Lifecycle Hooks
+https://docs.google.com/document/d/16N8zld_E6rYTRAC-yy_O-kJ3t7H-nk_i8DdSXCcG8BM/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
