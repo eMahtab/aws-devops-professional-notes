@@ -81,5 +81,8 @@ https://docs.google.com/document/d/1wW3yljKtP49zvx3okt2WP77VUHgHov0bY58eoFiptXQ/
 # AutoScaling Lifecycle Hooks
 https://docs.google.com/document/d/16N8zld_E6rYTRAC-yy_O-kJ3t7H-nk_i8DdSXCcG8BM/edit?usp=sharing
 
+# Cloudwatch Logs Agent Demo
+https://docs.google.com/document/d/14jKDf_ML0AaNhXj5rQoOZe2lYbFTFQJ_lybJLIQCoxQ/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
