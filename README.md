@@ -84,5 +84,8 @@ https://docs.google.com/document/d/16N8zld_E6rYTRAC-yy_O-kJ3t7H-nk_i8DdSXCcG8BM/
 # Cloudwatch Logs Agent Demo
 https://docs.google.com/document/d/14jKDf_ML0AaNhXj5rQoOZe2lYbFTFQJ_lybJLIQCoxQ/edit?usp=sharing
 
+# Cloudwatch Logs - Creating Metric Filter & Alarm
+https://docs.google.com/document/d/1LdOVFxFXYFL59k6sdUdf_0neET7oqJAWovidjCjFGyU/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
