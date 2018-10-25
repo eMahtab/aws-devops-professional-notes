@@ -87,6 +87,9 @@ https://docs.google.com/document/d/14jKDf_ML0AaNhXj5rQoOZe2lYbFTFQJ_lybJLIQCoxQ/
 # Cloudwatch Logs - Creating Metric Filter & Alarm
 https://docs.google.com/document/d/1LdOVFxFXYFL59k6sdUdf_0neET7oqJAWovidjCjFGyU/edit?usp=sharing
 
+# Creating CloudFront Key Pairs
+https://docs.google.com/document/d/1PNP_YJcMEMyEBNIfGjoKSDqD3-uoEzNToglVOW3_n9U/edit?usp=sharing
+
 # CloudFront - Serving Private Content with Signed URLs
 https://docs.google.com/document/d/1Q3VwnVAnOyPW2KETQFyu_T9X2BMLiaA3XvOrtAvzz14/edit?usp=sharing
 
