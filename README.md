@@ -93,6 +93,9 @@ https://docs.google.com/document/d/1PNP_YJcMEMyEBNIfGjoKSDqD3-uoEzNToglVOW3_n9U/
 # CloudFront - Serving Private Content with Signed URLs
 https://docs.google.com/document/d/1Q3VwnVAnOyPW2KETQFyu_T9X2BMLiaA3XvOrtAvzz14/edit?usp=sharing
 
+# CloudFront - Restricting Geographic Distribution of Your Content
+https://docs.google.com/document/d/18D588XeFaeXAxzFTFBCcaRcJFyef4PU6Ey_GNUSHiPY/edit?usp=sharing
+
 # Step Functions - Creating Lambda State Machine
 https://docs.google.com/document/d/1QLdAEjkSRgw1gs4rWAxKS6BOZBym3CqABU2nHXQOqE4/edit?usp=sharing
 
