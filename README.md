@@ -99,5 +99,8 @@ https://docs.google.com/document/d/18D588XeFaeXAxzFTFBCcaRcJFyef4PU6Ey_GNUSHiPY/
 # Step Functions - Creating Lambda State Machine
 https://docs.google.com/document/d/1QLdAEjkSRgw1gs4rWAxKS6BOZBym3CqABU2nHXQOqE4/edit?usp=sharing
 
+# Configuring SQS Queue for S3 Events
+https://docs.google.com/document/d/1KFJ7huObT996vih7qbCYfHkO2ltyzjv-iaDpu1t6POU/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
