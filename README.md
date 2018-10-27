@@ -102,5 +102,8 @@ https://docs.google.com/document/d/1QLdAEjkSRgw1gs4rWAxKS6BOZBym3CqABU2nHXQOqE4/
 # Configuring SQS Queue for S3 Events
 https://docs.google.com/document/d/1KFJ7huObT996vih7qbCYfHkO2ltyzjv-iaDpu1t6POU/edit?usp=sharing
 
+# CloudTrail - Demo
+https://docs.google.com/document/d/1XaH7NeNRRwX3ufDjL60izauF6rVPK2CfFH8WeyQXe9A/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
