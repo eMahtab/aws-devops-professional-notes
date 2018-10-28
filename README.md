@@ -108,5 +108,8 @@ https://docs.google.com/document/d/1XaH7NeNRRwX3ufDjL60izauF6rVPK2CfFH8WeyQXe9A/
 # Network Maximum Transmission Unit (MTU) for your EC2 Instance
 https://docs.google.com/document/d/1Y2Ye9_AyiIcgyo_tWTfyVc1CyFZu1zn7bSvQ06k3-jg/edit?usp=sharing
 
+# Amazon Cognito and Lambda Demo
+https://docs.google.com/document/d/1-OmRKSuojwhH1DHa_47cYIj5WP0IDMAjd6oFwxTtlac/edit?usp=sharing
+
 # Links
 https://docs.google.com/document/d/1wkAEg40QmcdnG_OqO7sAllEOFuCSpZm6jApg0CtXKBM/edit?usp=sharing
