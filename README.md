@@ -1,9 +1,9 @@
 # aws-devops-professional-notes
 
-# CodeCommit
+# CodeCommit :thumbsup:
 https://docs.google.com/document/d/1Q5RUojAF7nn0lgmyx0a2Og6Vgk-TWdVEUjA7fzWcKMI/edit?usp=sharing
 
-# Deploying code with AWS CodeDeploy and CodePipeline
+# Deploying code with AWS CodeDeploy and CodePipeline :thumbsup:
 https://docs.google.com/document/d/1RBlZtY3DbYLYhYGdAgA6lperWTjjZhz2s-idNQeUZB0/edit?usp=sharing
 
 # CodePipeline with Jenkins Build & Test Stage
