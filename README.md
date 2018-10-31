@@ -30,19 +30,19 @@ https://docs.google.com/document/d/1wwTtY1c82PW2nygjzReEUnffZUOZHyJRuUpb7TmR8p4/
 # CloudFormation Nested Stacks Example :thumbsup:
 https://docs.google.com/document/d/1B7ujbaIwdI54KN1fPnEeeVtq02dARiQTuq9zrUCMS-I/edit?usp=sharing
 
-# CloudFormation - Deletion Policy Attribute
+# CloudFormation - Deletion Policy Attribute :thumbsup:
 https://docs.google.com/document/d/1FpbuOPgQ8letFG-W_AXkTZ6v8IHqHFz8_ywfRegYzNY/edit?usp=sharing
 
-# CloudFormation - Stack Termination Protection
+# CloudFormation - Stack Termination Protection :thumbsup:
 https://docs.google.com/document/d/1vmQvf-m4b73JmBERpb2eaoLnnSrG1OSqZWozAk9-zzA/edit?usp=sharing
 
-# CloudFormation - Stack Policies
+# CloudFormation - Stack Policies :thumbsup:
 https://docs.google.com/document/d/1F4SWoanWtnFSxc9vBmIuXJRzGm3jR2MRBLZOpxqNYOY/edit?usp=sharing
 
-# CloudFormation - Custom Resources
+# CloudFormation - Custom Resources :thumbsup:
 https://docs.google.com/document/d/1U-Rqr3pOi05O6xeX_IPys1VASVTozs463gDbK983Ka4/edit?usp=sharing
 
-# Cross Stack Resource Reference - Export/Import
+# Cross Stack Resource Reference - Export/Import :thumbsup:
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
 # CloudFormation - Updating Stacks using Change Sets :thumbsup:
@@ -57,10 +57,10 @@ https://docs.google.com/document/d/1-BZMhN7K0mFNvMSyOfNS32zaCVm0f3nAUosMZvfu5qI/
 # CloudFormation - AutoScaling Group with AutoScalingRollingUpdate policy :thumbsup:
 https://docs.google.com/document/d/1SXLM_ROQL3qwjR-b50MKaKlzymmw2WXJUn481zc19ww/edit?usp=sharing
 
-# CloudFormation Pseudo Parameters
+# CloudFormation Pseudo Parameters :thumbsup:
 https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/edit?usp=sharing
 
-# CloudFormation Resource Attributes
+# CloudFormation Resource Attributes :thumbsup:
 https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/edit?usp=sharing
 
 # Scaling based on Amazon SQS
