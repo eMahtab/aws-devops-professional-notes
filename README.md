@@ -45,16 +45,16 @@ https://docs.google.com/document/d/1U-Rqr3pOi05O6xeX_IPys1VASVTozs463gDbK983Ka4/
 # Cross Stack Resource Reference - Export/Import
 https://docs.google.com/document/d/1UYYHHcEyKaUZ7a1IH7kAt9MFnBTAMa4NpFZ8lkIJhnM/edit?usp=sharing
 
-# CloudFormation - Updating Stacks using Change Sets
+# CloudFormation - Updating Stacks using Change Sets :thumbsup:
 https://docs.google.com/document/d/1qFYPTAl-hNUZZcpMly0Z0N8SumcvpC-wW2btyVqUa-0/edit?usp=sharing
 
-# Using cfn-hup helper script
+# Using cfn-hup helper script :thumbsup:
 https://docs.google.com/document/d/1ym5g0JBYkdr_RTid8nkXaZgO5YYCZbFoLlgbf2c4uxA/edit?usp=sharing
 
-# CloudFormation - AutoScaling Group without update policy
+# CloudFormation - AutoScaling Group without update policy :thumbsup:
 https://docs.google.com/document/d/1-BZMhN7K0mFNvMSyOfNS32zaCVm0f3nAUosMZvfu5qI/edit?usp=sharing
 
-# CloudFormation - AutoScaling Group with AutoScalingRollingUpdate policy
+# CloudFormation - AutoScaling Group with AutoScalingRollingUpdate policy :thumbsup:
 https://docs.google.com/document/d/1SXLM_ROQL3qwjR-b50MKaKlzymmw2WXJUn481zc19ww/edit?usp=sharing
 
 # CloudFormation Pseudo Parameters
