@@ -15,19 +15,19 @@ https://docs.google.com/document/d/1puY3QxBxUBcdlNZembFleT3FG4IISbN02IkkG5iS8Gk/
 # BootStrapping EC2 using UserData
 https://docs.google.com/document/d/13xM2763hUCPdHPKI70rfQa_IHNlZ31hrOW9AHgJ6uag/edit?usp=sharing
 
-# CloudFormation Helper Scripts
+# CloudFormation Helper Scripts :thumbsup:
 https://docs.google.com/document/d/1r25pbh2Ok61Fx57BldIsEauI1ywYv18foJWzsY8vdO0/edit?usp=sharing
 
-# BootStrapping EC2 using CloudFormation::Init
+# BootStrapping EC2 using CloudFormation::Init :thumbsup:
 https://docs.google.com/document/d/1eA6eCMfgulCKVsJEoy7A8AXlsRFE2HvYcp95PuT6TkE/edit?usp=sharing
 
-# Using WaitCondition and WaitHandle
+# Using WaitCondition and WaitHandle :thumbsup:
 https://docs.google.com/document/d/1Tb3t0cCxQxlza4C_rAdmWNRbIfNhpNPfC-wn6JTrQ0E/edit?usp=sharing
 
-# CloudFormation creating resources conditionally
+# CloudFormation creating resources conditionally :thumbsup:
 https://docs.google.com/document/d/1wwTtY1c82PW2nygjzReEUnffZUOZHyJRuUpb7TmR8p4/edit?usp=sharing
 
-# CloudFormation Nested Stacks Example
+# CloudFormation Nested Stacks Example :thumbsup:
 https://docs.google.com/document/d/1B7ujbaIwdI54KN1fPnEeeVtq02dARiQTuq9zrUCMS-I/edit?usp=sharing
 
 # CloudFormation - Deletion Policy Attribute
