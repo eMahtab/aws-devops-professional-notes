@@ -114,6 +114,9 @@ https://docs.google.com/document/d/1Y2Ye9_AyiIcgyo_tWTfyVc1CyFZu1zn7bSvQ06k3-jg/
 # Amazon Cognito and Lambda Demo
 https://docs.google.com/document/d/1-OmRKSuojwhH1DHa_47cYIj5WP0IDMAjd6oFwxTtlac/edit?usp=sharing
 
+# Deploying an ECS Cluster using CloudFormation
+https://docs.google.com/document/d/1cHOfZJYLS42BJdq_A_6NLSoa8gZ7a-7R17RRxA-zs6A/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
