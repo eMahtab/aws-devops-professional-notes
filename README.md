@@ -81,10 +81,10 @@ https://docs.google.com/document/d/1wW3yljKtP49zvx3okt2WP77VUHgHov0bY58eoFiptXQ/
 # AutoScaling Lifecycle Hooks :thumbsup:
 https://docs.google.com/document/d/16N8zld_E6rYTRAC-yy_O-kJ3t7H-nk_i8DdSXCcG8BM/edit?usp=sharing
 
-# Cloudwatch Logs Agent Demo
+# Cloudwatch Logs Agent Demo :thumbsup:
 https://docs.google.com/document/d/14jKDf_ML0AaNhXj5rQoOZe2lYbFTFQJ_lybJLIQCoxQ/edit?usp=sharing
 
-# Cloudwatch Logs - Creating Metric Filter & Alarm
+# Cloudwatch Logs - Creating Metric Filter & Alarm :thumbsup:
 https://docs.google.com/document/d/1LdOVFxFXYFL59k6sdUdf_0neET7oqJAWovidjCjFGyU/edit?usp=sharing
 
 # Creating CloudFront Key Pairs
@@ -96,22 +96,22 @@ https://docs.google.com/document/d/1Q3VwnVAnOyPW2KETQFyu_T9X2BMLiaA3XvOrtAvzz14/
 # CloudFront - Restricting Geographic Distribution of Your Content :thumbsup:
 https://docs.google.com/document/d/18D588XeFaeXAxzFTFBCcaRcJFyef4PU6Ey_GNUSHiPY/edit?usp=sharing
 
-# Choosing Between Signed URLs and Signed Cookies
+# Choosing Between Signed URLs and Signed Cookies :thumbsup:
 https://docs.google.com/document/d/1ABac0iXeXDL7yObprn4H_jr8do5chihdXEbhlcV5Ojc/edit?usp=sharing
 
 # Step Functions - Creating Lambda State Machine :thumbsup:
 https://docs.google.com/document/d/1QLdAEjkSRgw1gs4rWAxKS6BOZBym3CqABU2nHXQOqE4/edit?usp=sharing
 
-# Configuring SQS Queue for S3 Events
+# Configuring SQS Queue for S3 Events :thumbsup:
 https://docs.google.com/document/d/1KFJ7huObT996vih7qbCYfHkO2ltyzjv-iaDpu1t6POU/edit?usp=sharing
 
-# CloudTrail - Demo
+# CloudTrail - Demo :thumbsup:
 https://docs.google.com/document/d/1XaH7NeNRRwX3ufDjL60izauF6rVPK2CfFH8WeyQXe9A/edit?usp=sharing
 
 # Network Maximum Transmission Unit (MTU) for your EC2 Instance
 https://docs.google.com/document/d/1Y2Ye9_AyiIcgyo_tWTfyVc1CyFZu1zn7bSvQ06k3-jg/edit?usp=sharing
 
-# Amazon Cognito and Lambda Demo
+# Amazon Cognito and Lambda Demo :thumbsup:
 https://docs.google.com/document/d/1-OmRKSuojwhH1DHa_47cYIj5WP0IDMAjd6oFwxTtlac/edit?usp=sharing
 
 # Deploying an ECS Cluster using CloudFormation
