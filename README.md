@@ -6,13 +6,13 @@ https://docs.google.com/document/d/1Q5RUojAF7nn0lgmyx0a2Og6Vgk-TWdVEUjA7fzWcKMI/
 # Deploying code with AWS CodeDeploy and CodePipeline :thumbsup:
 https://docs.google.com/document/d/1RBlZtY3DbYLYhYGdAgA6lperWTjjZhz2s-idNQeUZB0/edit?usp=sharing
 
-# CodePipeline with Jenkins Build & Test Stage
+# CodePipeline with Jenkins Build & Test Stage :thumbsup:
 https://docs.google.com/document/d/1lbyZIHmwo79zS8V4dxJHEpr2WdliVNgXvEa6qQpRTBs/edit?usp=sharing
 
-# Launching EC2 Instance with CloudFormation
+# Launching EC2 Instance with CloudFormation :thumbsup:
 https://docs.google.com/document/d/1puY3QxBxUBcdlNZembFleT3FG4IISbN02IkkG5iS8Gk/edit?usp=sharing
 
-# BootStrapping EC2 using UserData
+# BootStrapping EC2 using UserData :thumbsup:
 https://docs.google.com/document/d/13xM2763hUCPdHPKI70rfQa_IHNlZ31hrOW9AHgJ6uag/edit?usp=sharing
 
 # CloudFormation Helper Scripts :thumbsup:
@@ -78,7 +78,7 @@ https://docs.google.com/document/d/1GLJ2P8mC9jn-gdP5s6BQrKZSSmbje_hbNEw4wnQD81Y/
 # Amazon Data Lifecycle Manager (DLM)
 https://docs.google.com/document/d/1wW3yljKtP49zvx3okt2WP77VUHgHov0bY58eoFiptXQ/edit?usp=sharing
 
-# AutoScaling Lifecycle Hooks
+# AutoScaling Lifecycle Hooks :thumbsup:
 https://docs.google.com/document/d/16N8zld_E6rYTRAC-yy_O-kJ3t7H-nk_i8DdSXCcG8BM/edit?usp=sharing
 
 # Cloudwatch Logs Agent Demo
@@ -90,16 +90,16 @@ https://docs.google.com/document/d/1LdOVFxFXYFL59k6sdUdf_0neET7oqJAWovidjCjFGyU/
 # Creating CloudFront Key Pairs
 https://docs.google.com/document/d/1PNP_YJcMEMyEBNIfGjoKSDqD3-uoEzNToglVOW3_n9U/edit?usp=sharing
 
-# CloudFront - Serving Private Content with Signed URLs
+# CloudFront - Serving Private Content with Signed URLs :thumbsup:
 https://docs.google.com/document/d/1Q3VwnVAnOyPW2KETQFyu_T9X2BMLiaA3XvOrtAvzz14/edit?usp=sharing
 
-# CloudFront - Restricting Geographic Distribution of Your Content
+# CloudFront - Restricting Geographic Distribution of Your Content :thumbsup:
 https://docs.google.com/document/d/18D588XeFaeXAxzFTFBCcaRcJFyef4PU6Ey_GNUSHiPY/edit?usp=sharing
 
 # Choosing Between Signed URLs and Signed Cookies
 https://docs.google.com/document/d/1ABac0iXeXDL7yObprn4H_jr8do5chihdXEbhlcV5Ojc/edit?usp=sharing
 
-# Step Functions - Creating Lambda State Machine
+# Step Functions - Creating Lambda State Machine :thumbsup:
 https://docs.google.com/document/d/1QLdAEjkSRgw1gs4rWAxKS6BOZBym3CqABU2nHXQOqE4/edit?usp=sharing
 
 # Configuring SQS Queue for S3 Events
