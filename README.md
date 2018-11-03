@@ -63,19 +63,19 @@ https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/
 # CloudFormation Resource Attributes :thumbsup:
 https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/edit?usp=sharing
 
-# Scaling based on Amazon SQS
+# Scaling based on Amazon SQS :thumbsup:
 https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/edit?usp=sharing
 
-# DynamoDB Streams and Lambda
+# DynamoDB Streams and Lambda :thumbsup:
 https://docs.google.com/document/d/1yo8kt5U3LUp8GVQRVhze-rTTp8Wa9-NzaOXhUjkfzBI/edit?usp=sharing
 
-# Amazon RDS Resources and Operations
+# Amazon RDS Resources and Operations :thumbsup:
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
-# AWS CLI - Environment Variables
+# AWS CLI - Environment Variables :thumbsup:
 https://docs.google.com/document/d/1GLJ2P8mC9jn-gdP5s6BQrKZSSmbje_hbNEw4wnQD81Y/edit?usp=sharing
 
-# Amazon Data Lifecycle Manager (DLM)
+# Amazon Data Lifecycle Manager (DLM) :thumbsup:
 https://docs.google.com/document/d/1wW3yljKtP49zvx3okt2WP77VUHgHov0bY58eoFiptXQ/edit?usp=sharing
 
 # AutoScaling Lifecycle Hooks :thumbsup:
