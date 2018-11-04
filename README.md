@@ -117,6 +117,9 @@ https://docs.google.com/document/d/1-OmRKSuojwhH1DHa_47cYIj5WP0IDMAjd6oFwxTtlac/
 # Deploying an ECS Cluster using CloudFormation
 https://docs.google.com/document/d/1cHOfZJYLS42BJdq_A_6NLSoa8gZ7a-7R17RRxA-zs6A/edit?usp=sharing
 
+# Deploying Elastic Beanstalk Applications with CloudFormation
+https://docs.google.com/document/d/1oU_ppCwHUfLTFoUYMDShP1soj535WRGn9XMAC5REL5A/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
