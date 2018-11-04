@@ -63,6 +63,9 @@ https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/
 # CloudFormation Resource Attributes :thumbsup:
 https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/edit?usp=sharing
 
+# CloudFormation Best Practices
+https://docs.google.com/document/d/1X5D9bFz_kZmdlKveFvHGT6y88xJwpDm_rvsHZh0C1Uo/edit?usp=sharing
+
 # Scaling based on Amazon SQS :thumbsup:
 https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/edit?usp=sharing
 
