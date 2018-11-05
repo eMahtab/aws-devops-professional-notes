@@ -126,6 +126,9 @@ https://docs.google.com/document/d/1oU_ppCwHUfLTFoUYMDShP1soj535WRGn9XMAC5REL5A/
 # Instance Profile & IAM role
 https://docs.google.com/document/d/17NsQFIBpgM836Lsg6kdT5voV-H_9lo2XW5PYc36Ife8/edit?usp=sharing
 
+# EC2 - Changing the Instance Type
+https://docs.google.com/document/d/1ZQPFrvEoSWmEMh8U8jTkhWOw45uDtOkJMYOA5G0feps/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
