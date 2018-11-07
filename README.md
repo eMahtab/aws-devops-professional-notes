@@ -123,6 +123,9 @@ https://docs.google.com/document/d/1cHOfZJYLS42BJdq_A_6NLSoa8gZ7a-7R17RRxA-zs6A/
 # Deploying Elastic Beanstalk Applications with CloudFormation :thumbsup:
 https://docs.google.com/document/d/1oU_ppCwHUfLTFoUYMDShP1soj535WRGn9XMAC5REL5A/edit?usp=sharing
 
+# CloudFormation - OpsWorks Demo
+https://docs.google.com/document/d/1TYJYN_Fs8og_-Ya-PxM2H8xRQWixwO9prF-ALeQSiNo/edit?usp=sharing
+
 # Instance Profile & IAM role :thumbsup:
 https://docs.google.com/document/d/17NsQFIBpgM836Lsg6kdT5voV-H_9lo2XW5PYc36Ife8/edit?usp=sharing
 
