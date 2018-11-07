@@ -117,19 +117,19 @@ https://docs.google.com/document/d/1Y2Ye9_AyiIcgyo_tWTfyVc1CyFZu1zn7bSvQ06k3-jg/
 # Amazon Cognito and Lambda Demo :thumbsup:
 https://docs.google.com/document/d/1-OmRKSuojwhH1DHa_47cYIj5WP0IDMAjd6oFwxTtlac/edit?usp=sharing
 
-# Deploying an ECS Cluster using CloudFormation
+# Deploying an ECS Cluster using CloudFormation :thumbsup:
 https://docs.google.com/document/d/1cHOfZJYLS42BJdq_A_6NLSoa8gZ7a-7R17RRxA-zs6A/edit?usp=sharing
 
-# Deploying Elastic Beanstalk Applications with CloudFormation
+# Deploying Elastic Beanstalk Applications with CloudFormation :thumbsup:
 https://docs.google.com/document/d/1oU_ppCwHUfLTFoUYMDShP1soj535WRGn9XMAC5REL5A/edit?usp=sharing
 
-# Instance Profile & IAM role
+# Instance Profile & IAM role :thumbsup:
 https://docs.google.com/document/d/17NsQFIBpgM836Lsg6kdT5voV-H_9lo2XW5PYc36Ife8/edit?usp=sharing
 
-# EC2 - Changing the Instance Type
+# EC2 - Changing the Instance Type :thumbsup:
 https://docs.google.com/document/d/1ZQPFrvEoSWmEMh8U8jTkhWOw45uDtOkJMYOA5G0feps/edit?usp=sharing
 
-# Windows EC2Config Service
+# Windows EC2Config Service :thumbsup:
 https://docs.google.com/document/d/1C-VDZMhwTldu3lE9HqQA-YzYNpXQ3hPQMcnPDrKoaW0/edit?usp=sharing
 
 # Important Points
