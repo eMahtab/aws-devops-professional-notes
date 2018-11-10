@@ -138,6 +138,9 @@ https://docs.google.com/document/d/1C-VDZMhwTldu3lE9HqQA-YzYNpXQ3hPQMcnPDrKoaW0/
 # Blue/Green Deployment - Swapping Auto Scaling Group behind Load Balancer
 https://docs.google.com/document/d/1SDvzct0zJZJOm7t3iUj4-nvv8jDFZpxuTkunDZosTQI/edit?usp=sharing
 
+# Blue/Green Deployment - Updating Auto Scaling Group's Launch Configuration
+https://docs.google.com/document/d/1FOlvML_72F64aEgP96yLPLDg06M-ax8s8iHev6b-5WY/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
