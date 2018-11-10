@@ -135,6 +135,9 @@ https://docs.google.com/document/d/1ZQPFrvEoSWmEMh8U8jTkhWOw45uDtOkJMYOA5G0feps/
 # Windows EC2Config Service :thumbsup:
 https://docs.google.com/document/d/1C-VDZMhwTldu3lE9HqQA-YzYNpXQ3hPQMcnPDrKoaW0/edit?usp=sharing
 
+# Blue/Green Deployment - Swapping Auto Scaling Group behind Load Balancer
+https://docs.google.com/document/d/1SDvzct0zJZJOm7t3iUj4-nvv8jDFZpxuTkunDZosTQI/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
