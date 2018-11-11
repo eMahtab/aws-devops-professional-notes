@@ -63,7 +63,7 @@ https://docs.google.com/document/d/1d2alPdxPUL6e0hN8n--UXeTE7BonfS4WldDRh2D8x-A/
 # CloudFormation Resource Attributes :thumbsup:
 https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/edit?usp=sharing
 
-# CloudFormation Best Practices
+# CloudFormation Best Practices :thumbsup:
 https://docs.google.com/document/d/1X5D9bFz_kZmdlKveFvHGT6y88xJwpDm_rvsHZh0C1Uo/edit?usp=sharing
 
 # Scaling based on Amazon SQS :thumbsup:
@@ -123,7 +123,7 @@ https://docs.google.com/document/d/1cHOfZJYLS42BJdq_A_6NLSoa8gZ7a-7R17RRxA-zs6A/
 # Deploying Elastic Beanstalk Applications with CloudFormation :thumbsup:
 https://docs.google.com/document/d/1oU_ppCwHUfLTFoUYMDShP1soj535WRGn9XMAC5REL5A/edit?usp=sharing
 
-# CloudFormation - OpsWorks Demo
+# CloudFormation - OpsWorks Demo :thumbsup:
 https://docs.google.com/document/d/1TYJYN_Fs8og_-Ya-PxM2H8xRQWixwO9prF-ALeQSiNo/edit?usp=sharing
 
 # Instance Profile & IAM role :thumbsup:
@@ -135,10 +135,10 @@ https://docs.google.com/document/d/1ZQPFrvEoSWmEMh8U8jTkhWOw45uDtOkJMYOA5G0feps/
 # Windows EC2Config Service :thumbsup:
 https://docs.google.com/document/d/1C-VDZMhwTldu3lE9HqQA-YzYNpXQ3hPQMcnPDrKoaW0/edit?usp=sharing
 
-# Blue/Green Deployment - Swapping Auto Scaling Group behind Load Balancer
+# Blue/Green Deployment - Swapping Auto Scaling Group behind Load Balancer :thumbsup:
 https://docs.google.com/document/d/1SDvzct0zJZJOm7t3iUj4-nvv8jDFZpxuTkunDZosTQI/edit?usp=sharing
 
-# Blue/Green Deployment - Updating Auto Scaling Group's Launch Configuration
+# Blue/Green Deployment - Updating Auto Scaling Group's Launch Configuration :thumbsup:
 https://docs.google.com/document/d/1FOlvML_72F64aEgP96yLPLDg06M-ax8s8iHev6b-5WY/edit?usp=sharing
 
 # Important Points
