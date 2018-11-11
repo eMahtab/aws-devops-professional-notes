@@ -141,6 +141,9 @@ https://docs.google.com/document/d/1SDvzct0zJZJOm7t3iUj4-nvv8jDFZpxuTkunDZosTQI/
 # Blue/Green Deployment - Updating Auto Scaling Group's Launch Configuration :thumbsup:
 https://docs.google.com/document/d/1FOlvML_72F64aEgP96yLPLDg06M-ax8s8iHev6b-5WY/edit?usp=sharing
 
+# AWS Config - Demo
+https://docs.google.com/document/d/1JpfTmpfzyOLILx-fClTG38KBhEbwop-1xsO2Hkh-ZYU/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
