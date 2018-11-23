@@ -147,6 +147,9 @@ https://docs.google.com/document/d/1JpfTmpfzyOLILx-fClTG38KBhEbwop-1xsO2Hkh-ZYU/
 # Remediate S3 Object permissions using CloudTrail, CloudWatch Events and Lambda
 https://docs.google.com/document/d/17ukemp1njMqVtZinxe2MqLFScHeYzu-DptcwZyMhfl4/edit?usp=sharing
 
+# Auto Scaling Group Rolling Update Best Practices
+https://docs.google.com/document/d/17Me8cFPrDxfxqagcoTZTrh1VJQ5MuJTdPQ1qnftOuUQ/edit?usp=sharing
+
 # Important Points
 https://docs.google.com/document/d/1NvNNq0Zx-8JAx1xWsTTF3ELXcR-eHuEXPKs1ph3vwkI/edit?usp=sharing
 
