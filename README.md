@@ -9,6 +9,9 @@ https://docs.google.com/document/d/1RBlZtY3DbYLYhYGdAgA6lperWTjjZhz2s-idNQeUZB0/
 # CodePipeline with Jenkins Build & Test Stage :thumbsup:
 https://docs.google.com/document/d/1lbyZIHmwo79zS8V4dxJHEpr2WdliVNgXvEa6qQpRTBs/edit?usp=sharing
 
+# Update Policy Attribute
+https://docs.google.com/document/d/1rLdmwFhJtaZD62s1PJTn85ckp2f49uEW6mf0w2tEWUU/edit?usp=sharing
+
 # Launching EC2 Instance with CloudFormation :thumbsup:
 https://docs.google.com/document/d/1puY3QxBxUBcdlNZembFleT3FG4IISbN02IkkG5iS8Gk/edit?usp=sharing
 
