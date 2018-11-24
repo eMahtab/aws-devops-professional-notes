@@ -78,6 +78,9 @@ https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/
 # DynamoDB Streams and Lambda :thumbsup:
 https://docs.google.com/document/d/1yo8kt5U3LUp8GVQRVhze-rTTp8Wa9-NzaOXhUjkfzBI/edit?usp=sharing
 
+# Logging DynamoDB Operations with CloudTrail
+https://docs.google.com/document/d/14bux6SWEZjkvU4Ku75FfgmJzy-wQ7tWNHI3ZnL7VXTM/edit?usp=sharing
+
 # Amazon RDS Resources and Operations :thumbsup:
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
