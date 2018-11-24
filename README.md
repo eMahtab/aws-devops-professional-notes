@@ -69,6 +69,9 @@ https://docs.google.com/document/d/1HqmQ_oygVK2NgtS6UYXItqZDtty7uTe9crwXIg5L9go/
 # CloudFormation Best Practices :thumbsup:
 https://docs.google.com/document/d/1X5D9bFz_kZmdlKveFvHGT6y88xJwpDm_rvsHZh0C1Uo/edit?usp=sharing
 
+# Logging CloudFormation API calls with CloudTrail
+https://docs.google.com/document/d/1hpduk_MJbxdviLaOU9cBnx-8JSaZ1q7GUoC7RxZVmus/edit?usp=sharing
+
 # Scaling based on Amazon SQS :thumbsup:
 https://docs.google.com/document/d/1dblo7lymcY9un-jyfejastk6OX9noU1RLyFshlJAsRE/edit?usp=sharing
 
