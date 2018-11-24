@@ -81,6 +81,9 @@ https://docs.google.com/document/d/1yo8kt5U3LUp8GVQRVhze-rTTp8Wa9-NzaOXhUjkfzBI/
 # Logging DynamoDB Operations with CloudTrail
 https://docs.google.com/document/d/14bux6SWEZjkvU4Ku75FfgmJzy-wQ7tWNHI3ZnL7VXTM/edit?usp=sharing
 
+# DynamoDB Global Tables
+https://docs.google.com/document/d/1EI29yW1RhFQCmhpe7ohEsvI6wTEDye2Z8LYr0S04SdM/edit?usp=sharing
+
 # Amazon RDS Resources and Operations :thumbsup:
 https://docs.google.com/document/d/1HJxl3HKMPinnQ7sTBM8kDeHr7BH5abRgvhKXnin6lDI/edit?usp=sharing
 
